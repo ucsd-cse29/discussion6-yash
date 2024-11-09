@@ -6,5 +6,5 @@
 int main() {
 
     char str[] = "/path?value1=thisisvalue1&value2=thisisvalue2&value3=thisisvalue3";
-
+    
 }
